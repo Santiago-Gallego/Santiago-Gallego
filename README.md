@@ -1,4 +1,6 @@
 <div align="center"><img src="https://github.com/Santiago-Gallego/Santiago-Gallego/raw/master/0.jpg" width="550" height="150" />
+
+
 **Full Stack Software Engineer Student in Holberton School**
 <br/>
 </div>
